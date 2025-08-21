@@ -1,4 +1,7 @@
 # Social-Login-OAuth2-Security-Setup
+Extra-detailed instructions are located here:
+OAuth2 Setup Guide
+
 OAuth2 Setup Information
 To get started with Google OAuth2 in this project, follow these steps:
 
@@ -25,4 +28,3 @@ Run the application.
 Navigate to the Login Page: When you first access the application, go to http://localhost:8080/ or /home as your entry point.
 To initiate the login flow, you may need to manually enter /login in the URL bar (e.g., http://localhost:8080/login).
 Successful Login: After logging in, you should be redirected to /secured by default (or another page if customized).
-
